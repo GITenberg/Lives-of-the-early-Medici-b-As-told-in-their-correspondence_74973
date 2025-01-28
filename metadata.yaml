@@ -1,5 +1,8 @@
 _repo: Lives-of-the-early-Medici-b-As-told-in-their-correspondence_74973
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74973-h/images/cover.jpg
 creator:
   editor:
     agent_name: Ross, Janet
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7618
     wikipedia: https://en.wikipedia.org/wiki/Janet_Ross
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74973#Lives-of-the-early-Medici-b-As-told-in-their-correspondence
 gutenberg_issued: '2024-12-25'
 gutenberg_type: Text
 identifiers:
